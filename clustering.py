@@ -5,7 +5,8 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 #import datasets for further analysis
-df = pd.read_csv(r'C:\Users\wkbmi\Desktop\TEMP\database\Ads.csv')
+filepath = file's location
+df = pd.read_csv(filepath)
 
 import streamlit as st
 from sklearn.cluster import KMeans
