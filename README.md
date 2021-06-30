@@ -9,4 +9,10 @@ appreciate everyone comments.
 
 
 # Project 2 - Macdonald's Menu Analysis
-to analyze each menu category and provide insights on nutrition content
+To analyze each menu category and provide insights on nutrition content:
+
+Business Understanding
+1. Food that contains highest fiber content
+2. calories in macdonald's food
+3. Explore content of daily average % of cholesterol and sodium in McDonald's menu versus other nutrition.
+4. average daily % of each nutrition in McDonald's menu
