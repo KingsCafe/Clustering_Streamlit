@@ -1,7 +1,6 @@
 # Project 1 - simple-clustering app.
-a simple application to predict whether with a customer's characteristic entered will be purchased or not using Random Forest.
+a simple application to predict whether with a customer's characteristic entered will be purchased or not using Random Forest and Streamlit.
 below images file showing how's the app works.
-appreciate everyone comments.
 
 ![image](https://user-images.githubusercontent.com/68422474/118744373-d72b4e00-b886-11eb-922e-211411e2056c.png)
 ![image](https://user-images.githubusercontent.com/68422474/118744418-e6120080-b886-11eb-96df-b65e5633fd9d.png)
