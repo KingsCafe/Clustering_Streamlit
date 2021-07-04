@@ -15,3 +15,11 @@ Business Understanding
 2. calories in macdonald's food
 3. Explore content of daily average % of cholesterol and sodium in McDonald's menu versus other nutrition.
 4. average daily % of each nutrition in McDonald's menu
+
+# Project 3 - Departmental Store RFM Analysis (Recency, Frequency, Monetary) with MySQL
+1. to idenfity customer types based on their RFM scores.
+2. scores ranking (Quartiles system) ==> 1=lowest;2=low;3=high,4=highest
+3. This method uses clustering to launch targeted marketing campaigns based on their profile (example below):
+- loyal customers (444)
+- new customers (41X)
+- lapsed customers (1X5)
