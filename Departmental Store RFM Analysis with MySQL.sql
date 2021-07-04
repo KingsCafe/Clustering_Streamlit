@@ -1,4 +1,3 @@
-use brazilian_ecommerce;
 -- the datasets from kaggle for a departmental store in Brazil
 -- create a customer_rfm view for scores working later
 -- the analysis will based on three criterias:
@@ -32,7 +31,7 @@ order by recency
 -- rfm scores rank from low to high (from 1 point to 4 points)
 
 select customer_id, 
-	   recency_score*100 + frequency_score*10 + monetary_score as rfm_score,
+       recency_score*100 + frequency_score*10 + monetary_score as rfm_score,
        (recency_score + frequency_score + monetary_score)/3 as rfm_average
 from (
 	select customer_id, recency, frequency, monetary,
@@ -40,7 +39,7 @@ from (
 		ntile(4) over (order by frequency) frequency_score, 
 		ntile(4) over (order by monetary) monetary_score
 	from customer_rfm) rfm
-    order by rfm_score desc;
+    	order by rfm_score desc;
     
     
 
