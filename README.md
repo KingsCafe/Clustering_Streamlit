@@ -19,7 +19,9 @@ Business Understanding
 # Project 3 - Departmental Store RFM Analysis (Recency, Frequency, Monetary) with MySQL
 1. to idenfity customer types based on their RFM scores.
 2. scores ranking (Quartiles system) ==> 1=lowest;2=low;3=high,4=highest
-3. This method uses clustering to launch targeted marketing campaigns based on their profile (example below):
-- loyal customers (444)
-- new customers (41X)
-- lapsed customers (1X4)
+3. This method uses clustering to launch targeted marketing campaigns based on their profile - for illustration purposes only we'll be focused on customers that we would like to reward them for being a good and loyal customers:
+- Champions (average rfm score > 3.5) --> bought most recently, most often and big spenders
+- loyal customers (average rfm score between 3.0 and 3.5) --> good sependers and responsive to promotions
+- potential loyalists (average rfm score between 2.5 and 3.0) --> recent customer, bought more than once and spent fair amount
+4. our targeted customers for the campaign this time:
+![image](https://user-images.githubusercontent.com/68422474/124690131-4d097880-df0c-11eb-86e8-83a6c61bd23a.png)
