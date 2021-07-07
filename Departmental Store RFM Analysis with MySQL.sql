@@ -29,6 +29,8 @@ order by recency
 
 -- using customer_rfm view to calculate the scores for each customer
 -- rfm scores rank from low to high (from 1 point to 4 points)
+-- rank the customers assuming same weight applied for each category 
+-- (this is pretty much depending on business/marketing campaign requirements and importance upon ranking the customers)
 
 select customer_id, 
        recency_score*100 + frequency_score*10 + monetary_score as rfm_score,
@@ -40,6 +42,20 @@ from (
 		ntile(4) over (order by monetary) monetary_score
 	from customer_rfm) rfm
     	order by rfm_score desc;
+	
+-- identify total targeted customers for the campaign -- 
+select 
+	if(avg_score > 3.5, 'Champions', 
+	if(avg_score between 3.0 and 3.5,'loyal customers', 
+	if(avg_score between 2.5 and 3.0,'potential loyalist',''))) customer_group,
+	sum(customer_count)
+from 
+	(select rfm_score, avg(rfm_average) avg_score, count(*) customer_count from rfm_scores
+	group by rfm_score
+	order by avg(rfm_average)) rfm_table
+group by customer_group having customer_group != ''
+order by avg_score desc
+;
     
     
 
