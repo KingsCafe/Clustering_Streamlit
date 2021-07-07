@@ -24,4 +24,5 @@ Business Understanding
 - loyal customers (average rfm score between 3.0 and 3.5) --> good sependers and responsive to promotions
 - potential loyalists (average rfm score between 2.5 and 3.0) --> recent customer, bought more than once and spent fair amount
 4. our targeted customers for the campaign this time:
+
 ![image](https://user-images.githubusercontent.com/68422474/124690131-4d097880-df0c-11eb-86e8-83a6c61bd23a.png)
