@@ -22,4 +22,4 @@ Business Understanding
 3. This method uses clustering to launch targeted marketing campaigns based on their profile (example below):
 - loyal customers (444)
 - new customers (41X)
-- lapsed customers (1X5)
+- lapsed customers (1X4)
