@@ -26,3 +26,15 @@ Business Understanding
 4. our targeted customers for the campaign this time:
 
 ![image](https://user-images.githubusercontent.com/68422474/124690131-4d097880-df0c-11eb-86e8-83a6c61bd23a.png)
+
+# Project 4 - ETL, Data Analysis and Visualization with Python
+## Race results for the 2017 Intel Great Place to Run \ Urban Clash Games!
+1. extract the information table from url using Beautifulsoup and transform into Pandas dataframe to perform data cleaning
+2. save the table to local file and perform data analysis and visualization:
+- change time format into numeric in minutes
+- use column chart to visualize top 10 cities participated in the race
+- get insight of running times distribution with distribution chart and boxplot
+- to compare the running times between female and male with boxplot
+
+![image](https://user-images.githubusercontent.com/68422474/126177849-ee416c1d-fbdd-48c3-9c02-1fe8cc4f3406.png)
+
