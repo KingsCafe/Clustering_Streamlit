@@ -1,6 +1,6 @@
 # Project 1 - simple-clustering app. - 
 https://github.com/KingsCafe/Mike_Portfolio/blob/main/clustering.py
-a simple application to predict whether with a customer's characteristic entered will be purchased or not using Random Forest and Streamlit.
+#### a simple application to predict whether with a customer's characteristic entered will be purchased or not using Random Forest and Streamlit.
 below images file showing how's the app works.
 
 ![image](https://user-images.githubusercontent.com/68422474/118744373-d72b4e00-b886-11eb-922e-211411e2056c.png)
@@ -10,9 +10,9 @@ below images file showing how's the app works.
 
 # Project 2 - Macdonald's Menu Analysis - 
 https://github.com/KingsCafe/Mike_Portfolio/blob/main/macdonal_menu_analysis_with_jupyter.ipynb
-To analyze each menu category and provide insights on nutrition content:
+#### To analyze each menu category and provide insights on nutrition content:
 
-Business Understanding
+Business Understanding:
 1. Food that contains highest fiber content
 2. calories in macdonald's food
 3. Explore content of daily average % of cholesterol and sodium in McDonald's menu versus other nutrition.
@@ -32,7 +32,7 @@ https://github.com/KingsCafe/Mike_Portfolio/blob/main/Departmental%20Store%20RFM
 
 # Project 4 - ETL, Data Analysis and Visualization with Python - 
 https://github.com/KingsCafe/Mike_Portfolio/blob/main/ETL%20with%20Python.ipynb
-## Race results for the 2017 Intel Great Place to Run \ Urban Clash Games!
+#### Race results for the 2017 Intel Great Place to Run \ Urban Clash Games!
 1. extract the information table from url using Beautifulsoup and transform into Pandas dataframe to perform data cleaning
 2. save the table to local file and perform data analysis and visualization:
 - change time format into numeric in minutes
