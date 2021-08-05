@@ -43,6 +43,7 @@ https://github.com/KingsCafe/Mike_Portfolio/blob/main/ETL%20with%20Python.ipynb
 ![image](https://user-images.githubusercontent.com/68422474/126177849-ee416c1d-fbdd-48c3-9c02-1fe8cc4f3406.png)
 
 # Project 5 - ETL, EDA E-commerce Sales Analysis
+https://github.com/KingsCafe/Mike_Portfolio/blob/07dde107cec1c43a4135c90ba93bb90aaf80e98b/ecommerce_sales_analysis_with_Python.ipynb
 1. check features distribution
 2. perform extract, transform, load on data
 3. Exploratory data analysis:
