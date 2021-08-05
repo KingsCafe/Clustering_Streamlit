@@ -42,3 +42,12 @@ https://github.com/KingsCafe/Mike_Portfolio/blob/main/ETL%20with%20Python.ipynb
 
 ![image](https://user-images.githubusercontent.com/68422474/126177849-ee416c1d-fbdd-48c3-9c02-1fe8cc4f3406.png)
 
+# Project 5 - ETL, EDA E-commerce Sales Analysis
+1. check features distribution
+2. perform extract, transform, load on data
+3. Exploratory data analysis:
+- top 10 countries by revenue
+- sales trend over year
+- Day of week customer make most purchase
+- Which is the best selling product in each country?
+- Top 10 customers
