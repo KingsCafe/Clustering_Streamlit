@@ -55,7 +55,7 @@ https://github.com/KingsCafe/Mike_Portfolio/blob/07dde107cec1c43a4135c90ba93bb90
 
 # Project 6 - A/B Testing - Marketing Campaign
 https://github.com/KingsCafe/Mike_Portfolio/blob/4b2a38b67696dd93653a5342a7c5b3dca2385b13/AB%20Testing%20-%20Marketing%20Campaign.ipynb
-To demostrate descriptive analysis using Python and perform hypothesis testing with Scipy to validate whether any difference between groups.
+- To demostrate descriptive analysis using Python and perform hypothesis testing with Scipy to validate whether any difference between groups.
 ![image](https://user-images.githubusercontent.com/68422474/135098127-5e5f2f4d-5b5e-4da3-9da7-4e6beab47ae6.png)
 ![image](https://user-images.githubusercontent.com/68422474/135098171-aecdb02e-e2b2-408a-87d2-2063aa784bdb.png)
 
